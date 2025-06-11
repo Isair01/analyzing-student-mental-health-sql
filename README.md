@@ -21,8 +21,7 @@ The dataset includes 286 student records and the following fields:
 - GitHub for version control
 
 ## 📁 Files
-- `analyzing_students_mental_health.sql`: SQL queries used for the analysis
-- `notebook.pdf`: Exported PDF from DataLab (optional for upload)
+- `Students mental health analysis`: SQL queries used for the analysis (Exported PDF from DataLab)
 
 ## ✅ Status
 ✅ Completed and available for public viewing
