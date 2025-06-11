@@ -1,4 +1,3 @@
-# analyzing-student-mental-health-sql
 # Analyzing Students' Mental Health (SQL Project)
 
 This SQL project explores the relationship between depression, social connectedness, acculturative stress, and length of stay among international and domestic students at a Japanese international university.
