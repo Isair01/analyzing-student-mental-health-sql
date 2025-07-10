@@ -24,8 +24,7 @@ The dataset contains 286 student records with the following key variables:
 - Git & GitHub for version control and collaboration
 
 ## 📁 Repository Structure
-- `analysis/`: Contains all SQL queries used
-- `reports/`: Contains exported insights and visual summaries (PDF)
+- `analysis/report`: Contains all SQL queries used and insight report(pdf)
 - `README.md`: Project overview
 
 ## ✅ Project Status
