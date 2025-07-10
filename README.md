@@ -1,27 +1,34 @@
-# Analyzing Students' Mental Health (SQL Project)
+# Analyzing Students' Mental Health with SQL
 
-This SQL project explores the relationship between depression, social connectedness, acculturative stress, and length of stay among international and domestic students at a Japanese international university.
+This project investigates the relationships between depression, social connectedness, acculturative stress, and length of stay among international and domestic students at a Japanese international university.
 
-## 📊 Dataset Overview
-The dataset includes 286 student records and the following fields:
-- `inter_dom`: International or domestic status
-- `stay`: Length of stay in years
+## Dataset Overview
+The dataset contains 286 student records with the following key variables:
+
+- `inter_dom`: Student status (International or Domestic)
+- `stay`: Length of stay (in years)
 - `todep`: Depression score (PHQ-9)
 - `tosc`: Social connectedness score (SCS)
 - `toas`: Acculturative stress score (ASISS)
-- Additional demographic and proficiency fields
+- Additional demographic and language proficiency variables
 
-## 🧠 Key Insights
-- 📉 Depression is negatively correlated with social connectedness (r ≈ -0.55)
-- 📈 Depression is positively correlated with acculturative stress (r ≈ 0.39)
-- 🕒 Students with shorter stays showed slightly higher depression on average
+## Key Insights
 
-## 🔧 Tools Used
-- PostgreSQL (via DataCamp DataLab)
-- GitHub for version control
+- **Depression is negatively correlated** with social connectedness (r ≈ -0.55)
+- **Depression is positively correlated** with acculturative stress (r ≈ 0.39)
+- **Shorter stays** are associated with slightly higher depression levels
 
-## 📁 Files
-- `Students mental health analysis`: SQL queries used for the analysis (Exported PDF from DataLab)
+## Tools & Technologies
 
-## ✅ Status
-✅ Completed and available for public viewing
+- SQL (PostgreSQL) via DataCamp DataLab
+- Git & GitHub for version control and collaboration
+
+## 📁 Repository Structure
+- `analysis/`: Contains all SQL queries used
+- `reports/`: Contains exported insights and visual summaries (PDF)
+- `README.md`: Project overview
+
+## ✅ Project Status
+**Completed** — Open for feedback and suggestions!
+
+
